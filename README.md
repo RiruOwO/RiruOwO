@@ -1,3 +1,1 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/RiruOwO"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiRiruOwO=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
