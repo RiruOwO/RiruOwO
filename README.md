@@ -1,3 +1,3 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/RiruOwO" />
+  <img src="https://komarev.com/ghpvc/RiruOwO"/>
 </div>
