@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://mc-heads.net/avatar/vRiru/50" style="vertical-align: middle;" />
+  <img src="https://mc-heads.net/avatar/vRiru/50" style="vertical-align: top;" />
   <span style="vertical-align: middle;"> vRiru </span>
   <img src="https://img.shields.io/badge/-PRO-FF69B4?style=for-the-badge" style="vertical-align: middle;" />
 </h1>
