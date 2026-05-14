@@ -2,7 +2,7 @@
   <tr>
     <td align="left" valign="middle">
       <h1 style="display: inline; border: none;">
-        <img src="https://skins.mcstats.com/face/4b29b236-c9fa-4782-9a37-05a5e346a47c?size=128" style="vertical-align: middle;" />
+        <img src="https://github.com/RiruOwO/RiruOwO/blob/main/MChead.png" style="vertical-align: middle;" />
         <span style="vertical-align: middle;"> vRiru </span>
         <img src="https://img.shields.io/badge/-PRO-FF69B4?style=for-the-badge" style="vertical-align: middle;" />
       </h1>
