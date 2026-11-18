@@ -1,3 +1,5 @@
+# マヨのコレクション図鑑 → https://riruowo.github.io/mayo-collection/
+
 # Github stats
 
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=RiruOwO&theme=dracula&hide=stars,prs&show_icons=true)](https://github.com/pranesh-2005/github-readme-stats-fast) 
