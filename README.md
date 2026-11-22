@@ -1,4 +1,3 @@
-# マヨのコレクション図鑑 → [ここ](https://riruowo.github.io/mayo-collection/)
 
 # Github stats
 
